@@ -1,0 +1,22 @@
+.logo{
+    width: 410px;
+    height: 125px;
+    align-content: center;
+    margin-left: 470px;
+    margin-top: 200px;
+    display: block;
+    
+}
+
+.text-box{
+    margin-left: 350px;
+    margin-top: 20px;
+    border-radius: 50px;
+    border: none;
+    width: 650px;
+    height: 40px;
+    font-family: arial;
+    font-size: 20px;
+    box-shadow: 5px 5px 20px rgba(245, 212, 179, 0.353);
+    
+}
